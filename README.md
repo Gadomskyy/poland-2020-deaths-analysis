@@ -1,4 +1,4 @@
-## Project Steps
+﻿## Project Steps
 
 ### 1. Data Acquisition
  Obtained the death count data for the year 2020 from https://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/zgony-wedlug-tygodni,39,2.html
@@ -21,4 +21,13 @@
  The voivodeship with the highest total amount as well as the highest maximum and minimum value was Mazowieckie voivodeship, which is not surprising due to the fact
  that it has the highest poplation (5 517 616). If we take that fact into consideration, the voivodeship with the highest amount of death per 1000 people is Łódzkie (15,09), 
  followed by Świętokrzyskie (14,61) and Śląskie (13,83). Pomorskie has the lowest number in that statistic with 11,08 deaths per 1000 people.
+
+
+Total deaths per voivodeship
+
+
+Deaths per 1000 people per voivodeship
+
+
+Data contains also information about death numbers for different age groups in 5 year intervals. It allows to identify and analyze the most vunerable age groups.
 
