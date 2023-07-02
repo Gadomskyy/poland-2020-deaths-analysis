@@ -23,11 +23,9 @@
  followed by Świętokrzyskie (14,61) and Śląskie (13,83). Pomorskie has the lowest number in that statistic with 11,08 deaths per 1000 people.
 
 
-Total deaths per voivodeship
-![image](https://github.com/Gadomskyy/poland-2020-deaths-analysis/assets/118121980/62afecdf-86de-4c08-8e42-4984f6f25543)
+Total deaths per voivodeship and deaths per 1000 people per voivodeship. Plots have been created using Python (pandas and matplotlib)
+![plot](https://github.com/Gadomskyy/poland-2020-deaths-analysis/assets/118121980/dbf4b1c9-ed0a-4216-a501-f4fd2cac89f9)
 
-Deaths per 1000 people per voivodeship
-![image](https://github.com/Gadomskyy/poland-2020-deaths-analysis/assets/118121980/5fa9082b-6702-49aa-96f2-cc670c163aae)
 
 Data contains also information about death numbers for different age groups in 5 year intervals. It allows to identify and analyze the most vunerable age groups.
 ![image](https://github.com/Gadomskyy/poland-2020-deaths-analysis/assets/118121980/a41db0f8-2417-42d9-984b-6c0f9231a6f3)
