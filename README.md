@@ -24,10 +24,12 @@
 
 
 Total deaths per voivodeship and deaths per 1000 people per voivodeship. Plots have been created using Python (pandas and matplotlib)
-![plot](https://github.com/Gadomskyy/poland-2020-deaths-analysis/assets/118121980/dbf4b1c9-ed0a-4216-a501-f4fd2cac89f9)
+![totalDeathsBarCharts](https://github.com/Gadomskyy/poland-2020-deaths-analysis/assets/118121980/b8277cb9-e83b-4997-9109-fd17f02c43e6)
+
 
 
 Data contains also information about death numbers for different age groups in 5 year intervals. It allows to identify and analyze the most vunerable age groups.
-![image](https://github.com/Gadomskyy/poland-2020-deaths-analysis/assets/118121980/a41db0f8-2417-42d9-984b-6c0f9231a6f3)
+![deaths_per_age_plot](https://github.com/Gadomskyy/poland-2020-deaths-analysis/assets/118121980/a98cb7a8-6d55-4031-85da-625fc381738f)
+
 
 
