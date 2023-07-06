@@ -33,6 +33,9 @@ Data contains also information about death numbers for different age groups in 5
 
 Here is how the death counts looked like for each week for the whole population in 2020. Area in red indicates lower death count than median and the one in blue - higher.
 ![deaths_per_week_overall](https://github.com/Gadomskyy/poland-2020-deaths-analysis/assets/118121980/557392be-36ff-4c46-b9b2-6c04df09be23)
+On the heatmap we can see the deaths per week for all regions as well as their exact numbers. Same as in the chart above, you can notice a big increase in the last quarter of the year, after a mild summer.
+![deaths_per_week_heatmap](https://github.com/Gadomskyy/poland-2020-deaths-analysis/assets/118121980/8c0cdc3d-c823-4a69-afe0-996c1c5034be)
+
 
 
 
