@@ -25,6 +25,9 @@
 
 Total deaths per voivodeship and deaths per 1000 people per voivodeship. Plots have been created using Python (pandas and matplotlib)
 ![totalDeathsBarCharts](https://github.com/Gadomskyy/poland-2020-deaths-analysis/assets/118121980/b8277cb9-e83b-4997-9109-fd17f02c43e6)
+Cartogram plus diagrams for deaths per 1000 people per region plus a male/female death ratio
+![Deaths_per_region](https://github.com/Gadomskyy/poland-2020-deaths-analysis/assets/118121980/a3296e65-51d8-4e4e-a44d-5d600d99e4a1)
+
 
 
 
