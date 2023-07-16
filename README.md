@@ -27,17 +27,24 @@ Total deaths per voivodeship and deaths per 1000 people per voivodeship. Plots h
 ![totalDeathsBarCharts](https://github.com/Gadomskyy/poland-2020-deaths-analysis/assets/118121980/b8277cb9-e83b-4997-9109-fd17f02c43e6)
 Cartogram plus diagrams for deaths per 1000 people per region plus a male/female death ratio
 ![Deaths_per_region](https://github.com/Gadomskyy/poland-2020-deaths-analysis/assets/118121980/a3296e65-51d8-4e4e-a44d-5d600d99e4a1)
-
-
+We can see that the voivodeships with the highest amount of deaths per 1000 people are located mostly in central Poland and Silesia, while the Northern Poland is on the other end of the spectrum.
+We can also see that for all voivedeships, the amount of deaths is higher for men than women. Łódzkie is the closest to the 50/50 split.
 
 
 Data contains also information about death numbers for different age groups in 5 year intervals. It allows to identify and analyze the most vunerable age groups.
 ![deaths_per_age_plot](https://github.com/Gadomskyy/poland-2020-deaths-analysis/assets/118121980/a98cb7a8-6d55-4031-85da-625fc381738f)
+The trend follows a mostly linear pattern with the amount of deaths rising as the age increases. The are a few outliers to that trend, notably:
+1. The 0-4 group: with the deaths amount being much higher than next few categories, the reason for that is likely an increased risk of death during the birth itself.
+2. The 75-79 group: Being lower than 70-74 group, the fact for that decrease could be the expected life expectancy for men and women in Poland, being around 72 and 80 respectively. That means that a number of men are expected to die before reaching that 75-79 age on average, while women are expected on average to surpass it. 
 
 Here is how the death counts looked like for each week for the whole population in 2020. Area in red indicates lower death count than median and the one in blue - higher.
 ![deaths_per_week_overall](https://github.com/Gadomskyy/poland-2020-deaths-analysis/assets/118121980/557392be-36ff-4c46-b9b2-6c04df09be23)
+We can see that the lowest amounts of deaths per week happened in spring and summer weeks, while the autumn and winter have on average higher amounts of deaths per week. The huge increase of deaths happening in the Q4 of 2020 is connected to reasons other than just the seasonality, most notably the Covid-19 pandemic.
+
+
 On the heatmap we can see the deaths per week for all regions as well as their exact numbers. Same as in the chart above, you can notice a big increase in the last quarter of the year, after a mild summer.
 ![deaths_per_week_heatmap](https://github.com/Gadomskyy/poland-2020-deaths-analysis/assets/118121980/8c0cdc3d-c823-4a69-afe0-996c1c5034be)
+the chart lets us observe that there are no outliers in terms of particular voivodeships in regards to the amount of deaths per week for whole country. All voivodeships follow simillar tendencies as shown of the graph above, with the mildest weeks being in the middle of the year, and the highest increase happening for the last three months of the year.
 
 
 
