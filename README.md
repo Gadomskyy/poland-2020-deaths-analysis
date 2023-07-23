@@ -29,6 +29,9 @@ Cartogram plus diagrams for deaths per 1000 people per region plus a male/female
 ![Deaths_per_region](https://github.com/Gadomskyy/poland-2020-deaths-analysis/assets/118121980/a3296e65-51d8-4e4e-a44d-5d600d99e4a1)
 We can see that the voivodeships with the highest amount of deaths per 1000 people are located mostly in central Poland and Silesia, while the Northern Poland is on the other end of the spectrum.
 We can also see that for all voivedeships, the amount of deaths is higher for men than women. Łódzkie is the closest to the 50/50 split.
+![deaths_scatter](https://github.com/Gadomskyy/poland-2020-deaths-analysis/assets/118121980/f81f8545-31ea-4e33-8da9-c513f02e7438)
+An additional analysis of correlation between number of residents in a voivodeship and number of deaths per 1000 residents has been concluded.
+From the plot we can see that the size of a population is unlikely to be a deciding factor in a number of deaths. There is a negative correlation (shown thanks to the regression line) which suggests that the bigger voivodeships have on average lower death rates, but a r= -0.202 suggests that this correlation is not among leading factors
 
 
 Data contains also information about death numbers for different age groups in 5 year intervals. It allows to identify and analyze the most vunerable age groups.
