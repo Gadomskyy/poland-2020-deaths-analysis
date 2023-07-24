@@ -49,6 +49,8 @@ On the heatmap we can see the deaths per week for all regions as well as their e
 ![deaths_per_week_heatmap](https://github.com/Gadomskyy/poland-2020-deaths-analysis/assets/118121980/8c0cdc3d-c823-4a69-afe0-996c1c5034be)
 the chart lets us observe that there are no outliers in terms of particular voivodeships in regards to the amount of deaths per week for whole country. All voivodeships follow simillar tendencies as shown of the graph above, with the mildest weeks being in the middle of the year, and the highest increase happening for the last three months of the year.
 
-
+### 4. Compare men and women death rates
+![men_women_compare](https://github.com/Gadomskyy/poland-2020-deaths-analysis/assets/118121980/09314290-4bcc-430b-877e-8bf1333584b8)
+With the higher number of men dying in 2020 it is not a surprise to see them being visibly above women death rates on the chart. It's worth noting though that there was not a single week in which the death count of women was higher then men's. The biggest difference was observed in week 44, which was also the week with the highest death count overall. However, the smallest difference was in week 14 which is not a lowest death count week - we can observe an interesting case when from week 13, the amount of men's death has fallen significantly, and the opposite has happened with women, which bridged the gap. From the chart we can see that situations like that were not common and were mostly outliers - both charts showed similar trends for most of the weeks of the year.
 
 
