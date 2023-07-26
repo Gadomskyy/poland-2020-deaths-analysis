@@ -1,4 +1,8 @@
-﻿## Project Steps
+ ## Project Goals
+The main objective of this project is to utilize and enhance proficiency in two essential data analysis libraries - Pandas and Matplotlib. 
+By focusing on analyzing the deaths in Poland during the year 2020, this project aims to provide insights into the mortality patterns and trends for that period.
+ 
+ ## Project Steps
 
 ### 1. Data Acquisition
  Obtained the death count data for the year 2020 from https://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/zgony-wedlug-tygodni,39,2.html
