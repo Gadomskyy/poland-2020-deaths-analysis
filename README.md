@@ -57,4 +57,9 @@ the chart lets us observe that there are no outliers in terms of particular voiv
 ![men_women_compare](https://github.com/Gadomskyy/poland-2020-deaths-analysis/assets/118121980/09314290-4bcc-430b-877e-8bf1333584b8)
 With the higher number of men dying in 2020 it is not a surprise to see them being visibly above women death rates on the chart. It's worth noting though that there was not a single week in which the death count of women was higher then men's. The biggest difference was observed in week 44, which was also the week with the highest death count overall. However, the smallest difference was in week 14 which is not a lowest death count week - we can observe an interesting case when from week 13, the amount of men's death has fallen significantly, and the opposite has happened with women, which bridged the gap. From the chart we can see that situations like that were not common and were mostly outliers - both charts showed similar trends for most of the weeks of the year.
 
+### 5. Comparing 2020 to previous years.
+2020 data has been compared with previous years in order to identify any anomalies or unusual patterns. 
+It will help in understanding if 2020 had any unique characteristics regarding mortality.
+![deaths_selected_years](https://github.com/Gadomskyy/poland-2020-deaths-analysis/assets/118121980/c4fc5388-5379-44e9-98d1-bca6931837e6)
+
 
