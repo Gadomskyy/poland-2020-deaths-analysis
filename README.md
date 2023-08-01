@@ -42,7 +42,12 @@ Data contains also information about death numbers for different age groups in 5
 ![deaths_per_age_plot](https://github.com/Gadomskyy/poland-2020-deaths-analysis/assets/118121980/a98cb7a8-6d55-4031-85da-625fc381738f)
 The trend follows a mostly linear pattern with the amount of deaths rising as the age increases. The are a few outliers to that trend, notably:
 1. The 0-4 group: with the deaths amount being much higher than next few categories, the reason for that is likely an increased risk of death during the birth itself.
-2. The 75-79 group: Being lower than 70-74 group, the fact for that decrease could be the expected life expectancy for men and women in Poland, being around 72 and 80 respectively. That means that a number of men are expected to die before reaching that 75-79 age on average, while women are expected on average to surpass it. 
+2. The 75-79 group: Being lower than 70-74 group, the fact for that decrease could be the expected life expectancy for men and women in Poland, being around 72 and 80 respectively. That means that a number of men are expected to die before reaching that 75-79 age on average, while women are expected on average to surpass it.
+![men_vs_women_all_ages](https://github.com/Gadomskyy/poland-2020-deaths-analysis/assets/118121980/7da8fee9-d0ec-4a01-9620-0304eef06989)
+When comparing the same chart, but also including the gender, we can see clear differences. Men are more likely to die in each age group up to 75-79 - which may not be surprising, given their overall lower life expectancy.
+It's worth noting that the differences in lower age groups are significantly for men's disadvantage, which suggest that they are more likely to die due to causes other than natural (which should not occur often in the lower age groups).
+The big change of trends can be observed from 65-69 onwards- wheras men's death counts follow a declining trend (due to much higher number of men dying up to this point), the women's chart follows an opposite trend, with the numbers rising as the age group increases. This confirms the life expectancy numbers being more favourable for women.
+
 
 Here is how the death counts looked like for each week for the whole population in 2020. Area in red indicates lower death count than median and the one in blue - higher.
 ![deaths_per_week_overall](https://github.com/Gadomskyy/poland-2020-deaths-analysis/assets/118121980/557392be-36ff-4c46-b9b2-6c04df09be23)
