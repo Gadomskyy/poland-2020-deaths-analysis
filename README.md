@@ -62,9 +62,14 @@ the chart lets us observe that there are no outliers in terms of particular voiv
 ![men_women_compare](https://github.com/Gadomskyy/poland-2020-deaths-analysis/assets/118121980/09314290-4bcc-430b-877e-8bf1333584b8)
 With the higher number of men dying in 2020 it is not a surprise to see them being visibly above women death rates on the chart. It's worth noting though that there was not a single week in which the death count of women was higher then men's. The biggest difference was observed in week 44, which was also the week with the highest death count overall. However, the smallest difference was in week 14 which is not a lowest death count week - we can observe an interesting case when from week 13, the amount of men's death has fallen significantly, and the opposite has happened with women, which bridged the gap. From the chart we can see that situations like that were not common and were mostly outliers - both charts showed similar trends for most of the weeks of the year.
 
-### 5. Comparing 2020 to previous years.
+### 5. Comparing 2020 death counts to previous years.
 2020 data has been compared with previous years in order to identify any anomalies or unusual patterns. 
 It will help in understanding if 2020 had any unique characteristics regarding mortality.
 ![deaths_selected_years](https://github.com/Gadomskyy/poland-2020-deaths-analysis/assets/118121980/c4fc5388-5379-44e9-98d1-bca6931837e6)
+
+We can see the death counts for 2020 to follow a similar pattern as 2019 and 2018 for the first 40 weeks of the year. The real difference happens from week 40 onward, where we can see a huge increase of the death counts in 2020 compared to previous years, at times even reaching twice the amount as previous years, likely contributed by COVID-19. Even though first COVID cases appeared in March, the amount of deaths deosn't break out of the previous year trends - it is in October and November, where the COVID cases reached their historic heights, where we can see the difference.
+According to stat.gov.pl, in 41 451 cases the death cause has been contributed to the coronavirus. We can also observe that the total amount of deaths in 2020 is ~70 000 higher than in previous years, which is visibly higher than just COVID casualties alone - which suggests the increase in other death causes as well - which could be contributed to the pandemic as well- more hospitalized patients meaning that not everyone could receive the medical treatment they needed. 
+
+### 6. Comparing 2020 death causes to previous years.
 
 
